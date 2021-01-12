@@ -1,5 +1,3 @@
-# Orientation task 1
-
 # Task 1
 - marketing subscribes
 - binary classification 
